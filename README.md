@@ -12,7 +12,7 @@ AR Ruler is an app of argumented reality that uses the camera and processor of y
 
 ## Screenshot
 
-<img src= Documentation/ARRuler.mp4  height="375" width="175">
+<img src= Documentation/Screenshot1.gif  height="375" width="175">
 
 
 
